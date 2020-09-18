@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://c402277.ssl.cf1.rackcdn.com/photos/2325/images/hero_small/mountains-hero.jpg?1345838509);
+    background-size: cover;
+}
+form{
+    text-align: center;
+    border: 5px rebeccapurple;
+
+}
+.boxmodel{
+    border: 5px rebeccapurple;
+}
